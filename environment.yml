@@ -12,6 +12,7 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
+  - scienceplots
   - scipy
   - scikit-learn
   - scikit-fda
@@ -23,3 +24,4 @@ dependencies:
     - torch
     - keras
     - nltk
+    - aquarel
